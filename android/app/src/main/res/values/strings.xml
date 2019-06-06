@@ -1,0 +1,6 @@
+<resources>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">deployment-key-here</string>
+    <string name="app_name">RN_59</string>
+    <string name="fb_app_id">380817722619807</string>
+    <string name="ak_client_token">a11641e154f1084b547708c43cad3840</string>
+</resources>
